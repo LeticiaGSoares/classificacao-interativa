@@ -75,5 +75,8 @@
 }
 
 .result{
-    
+    padding: 10px;
+    border-radius: 50px;
+    color:var(--Orange);
+    background-color: var(--Light-Grey);
 }
